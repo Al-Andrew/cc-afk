@@ -1,0 +1,3 @@
+[submodule "ccpack"]
+	path = ccpack
+	url = https://github.com/Al-Andrew/ccpack

@@ -1,0 +1,11 @@
+{
+    "name": "cc-afk",
+    "version": "0.0.1",
+    "url": "https://github.com/Al-Andrew",
+    "files": [
+        {
+            "path": "cmdline.lua",
+            "url": "https://raw.githubusercontent.com/Al-Andrew/cc-afk/refs/heads/main/cmdline.lua"
+        }
+    ]
+}
